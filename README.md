@@ -14,7 +14,7 @@ this project can significantly improve operational efficiency and strategic plan
 TRANSPORTATION
 
 # **SKILL-TAKEAWAY**
-Python scripting\ Selenium\ Data Collection\ Data Management using SQL\ Streamlit
+ Python scripting | Selenium | Data Collection | Data Management using SQL | Streamlit
 
 # TECHNOLOGY USED
 * **Python** 
